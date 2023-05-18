@@ -66,9 +66,9 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 # Future enhancement which can be done
 
-### 2. Integration testing.
-### 3. UI integration.
-### 4. Containerization(Docker).
-### 5. SonarQube/SonarLint integration for code coverage/code optimization.
-### 6. WebMVC configuration and Interceptors to enable CorrelationId injection in each request.(This is basically done to have and id )
-### 7. Profile based configuration file.
+### 1. Integration testing.
+### 2. UI integration.
+### 3. Containerization(Docker).
+### 4. SonarQube/SonarLint integration for code coverage/code optimization.
+### 5. WebMVC configuration and Interceptors to enable CorrelationId injection in each request.(This is basically done to have and id )
+### 6. Profile based configuration file.
