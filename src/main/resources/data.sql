@@ -1,0 +1,2 @@
+INSERT INTO Users (user_Name, password, is_Active, authorities) VALUES ('admin','admin','true','ROLE_ADMIN,ROLE_VIEWER');
+INSERT INTO Users (user_Name, password, is_Active, authorities) VALUES ('viewer','viewer','true','ROLE_VIEWER');
